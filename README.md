@@ -1,4 +1,3 @@
-# daily-practice-
 
 Daily coding practice log — one problem a day.
 
@@ -11,3 +10,4 @@ Daily coding practice log — one problem a day.
 | 05  | Title Case | [Level 6](https://www.codewars.com/kata/5202ef17a402dd033c000009) | O(n) / O(n) |
 | 06  | Turkish National Identity Number | [Level 6](https://www.codewars.com/kata/556021360863a1708900007b) | O(n) / O(1) |
 | 07  | Split by Mask | [Level 7](https://www.codewars.com/kata/6a68ed7894f29599a1f7a248) | O(n) / O(n) |# daily-practice-
+| 08 | Sum of many ints | [Level 6](https://www.codewars.com/kata/54c2fc0552791928c9000517) | O(1) / O(1) |
