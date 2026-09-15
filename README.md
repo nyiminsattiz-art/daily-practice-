@@ -12,3 +12,4 @@ Daily coding practice log — one problem a day.
 | 07  | Split by Mask | [Level 7](https://www.codewars.com/kata/6a68ed7894f29599a1f7a248) | O(n) / O(n) |# daily-practice-
 | 08 | Sum of many ints | [Level 6](https://www.codewars.com/kata/54c2fc0552791928c9000517) | O(1) / O(1) |
 | 09  | Playing with digits | [Level 6](https://www.codewars.com/kata/5552101f47fc5178b1000050) | O(n) / O(1) |
+| 10  | Do I get a bonus? | [Level 8](https://www.codewars.com/kata/56f6ad906b88de513f000d96) | O(1) / O(1) |
