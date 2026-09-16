@@ -13,3 +13,5 @@ Daily coding practice log — one problem a day.
 | 08 | Sum of many ints | [Level 6](https://www.codewars.com/kata/54c2fc0552791928c9000517) | O(1) / O(1) |
 | 09  | Playing with digits | [Level 6](https://www.codewars.com/kata/5552101f47fc5178b1000050) | O(n) / O(1) |
 | 10  | Do I get a bonus? | [Level 8](https://www.codewars.com/kata/56f6ad906b88de513f000d96) | O(1) / O(1) |
+| 11  | Testing 1-2-3 | [Level 7](https://www.codewars.com/kata/54bf85e3d5b56c7a05000cf9) | O(n) / O(n) |ø
+
