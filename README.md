@@ -15,4 +15,4 @@ Daily coding practice log — one problem a day.
 | 10  | Do I get a bonus? | [Level 8](https://www.codewars.com/kata/56f6ad906b88de513f000d96) | O(1) / O(1) |
 | 11  | Testing 1-2-3 | [Level 7](https://www.codewars.com/kata/54bf85e3d5b56c7a05000cf9) | O(n) / O(n) |ø
 | 12  | CSV representation of array | [Level 8](https://www.codewars.com/kata/5a34af40e1ce0eb1f5000036) | O(n²) / O(n) |
-
+| 13  | Find The Corrupted Hex Byte | [Level 7](https://www.codewars.com/kata/6a54d3e91e9fb16ca31cc912) | O(n²) / O(1) |
