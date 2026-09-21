@@ -1,4 +1,3 @@
-
 Daily coding practice log — one problem a day.
 
 | Day | Problem Name | Codewars Level/Link | Time/Space Complexity |
@@ -18,3 +17,4 @@ Daily coding practice log — one problem a day.
 | 13  | Find The Corrupted Hex Byte | [Level 7](https://www.codewars.com/kata/6a54d3e91e9fb16ca31cc912) | O(n²) / O(1) |
 | 14  | Was the package received before it was sent? (Simplified) | [Level 8](https://www.codewars.com/kata/6707688c0f597511f6649270) | O(1) / O(1) |
 | 15  | Sum the nums, sum the sums and sum the nums up to that sum | [Level 6](https://www.codewars.com/kata/60d2325592157c0019ee78ed) | O(1) / O(1) |
+| 16  | Fuel Calculator: Total Cost | [Level 8](https://www.codewars.com/kata/57b58827d2a31c57720012e8) | O(1) / O(1) |
