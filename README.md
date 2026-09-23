@@ -19,3 +19,4 @@ Daily coding practice log — one problem a day.
 | 15  | Sum the nums, sum the sums and sum the nums up to that sum | [Level 6](https://www.codewars.com/kata/60d2325592157c0019ee78ed) | O(1) / O(1) |
 | 16  | Fuel Calculator: Total Cost | [Level 8](https://www.codewars.com/kata/57b58827d2a31c57720012e8) | O(1) / O(1) |
 | 17  | Decompose single strand DNA into 3 reading frames | [Level 7](https://www.codewars.com/kata/57507369b0b6d1b5a60001b3) | O(n) / O(1) |
+| 18  | Closest elevator | [Level 8](https://www.codewars.com/kata/57507369b0b6d1b5a60001b3) | O(1) / O(1) |
