@@ -25,3 +25,4 @@ Daily coding practice log — one problem a day.
 | 21  | #1 Sequences: Pure Even Digit Perfect Squares (P.E.D.P.S) | [Level 6](https://www.codewars.com/kata/59290e641a640c53d000002c) | O(n²) / O(n) |
 | 22  | 2 DNAs sequences, coding for same protein?) | [Level 7](https://www.codewars.com/kata/57cbb9e240e3024aae000b26) | O(n) / O(n) |
 | 23  | Is it an isogram) | [Level 6](https://www.codewars.com/kata/586d79182e8d9cfaba0000f1) | O(n) / O(n) |
+| 24  | Count words | [Level 6](https://www.codewars.com/kata/56b3b27cadd4ad275500000c) | O(n) / O(1) |
