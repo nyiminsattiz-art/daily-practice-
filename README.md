@@ -27,3 +27,4 @@ Daily coding practice log — one problem a day.
 | 23  | Is it an isogram) | [Level 6](https://www.codewars.com/kata/586d79182e8d9cfaba0000f1) | O(n) / O(n) |
 | 24  | Count words | [Level 6](https://www.codewars.com/kata/56b3b27cadd4ad275500000c) | O(n) / O(1) |
 | 25  | Reverse or rotate | [Level 6](https://www.codewars.com/kata/56b5afb4ed1f6d5fb0000991) | O(n) / O(1) |
+| 26  | Valid Phone Number | [Level 6](https://www.codewars.com/kata/525f47c79f2f25a4db000025) | O(n) / O(1) |
