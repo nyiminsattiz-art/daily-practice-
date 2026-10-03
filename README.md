@@ -29,3 +29,4 @@ Daily coding practice log — one problem a day.
 | 25  | Reverse or rotate | [Level 6](https://www.codewars.com/kata/56b5afb4ed1f6d5fb0000991) | O(n) / O(1) |
 | 26  | Valid Phone Number | [Level 6](https://www.codewars.com/kata/525f47c79f2f25a4db000025) | O(n) / O(1) |
 | 27  | Perfect squares, perfect fu | [Level 7](https://www.codewars.com/kata/5705ca6a41e5be67720012c0) | O(n) / O(n) |
+| 28  | Weight for weight | [Level 5](https://www.codewars.com/kata/55c6126177c9441a570000cc) | O(n) / O(n) |
