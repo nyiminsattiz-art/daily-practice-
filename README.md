@@ -32,3 +32,4 @@ Daily coding practice log — one problem a day.
 | 28  | Weight for weight | [Level 5](https://www.codewars.com/kata/55c6126177c9441a570000cc) | O(n) / O(n) |
 | 29  | Kebabize | [Level 6](https://www.codewars.com/kata/57f8ff867a28db569e000c4a) | O(n) / O(1) |
 | 30  | Decipher this | [Level 6](https://www.codewars.com/kata/581e014b55f2c52bb00000f8) | O(n²) / O(n) |
+| 31  | Validate Credit Card Number | [Level 6](https://www.codewars.com/kata/5418a1dd6d8216e18a0012b2) | O(n²) / O(n) |
