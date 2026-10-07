@@ -33,3 +33,4 @@ Daily coding practice log — one problem a day.
 | 29  | Kebabize | [Level 6](https://www.codewars.com/kata/57f8ff867a28db569e000c4a) | O(n) / O(1) |
 | 30  | Decipher this | [Level 6](https://www.codewars.com/kata/581e014b55f2c52bb00000f8) | O(n²) / O(n) |
 | 31  | Validate Credit Card Number | [Level 6](https://www.codewars.com/kata/5418a1dd6d8216e18a0012b2) | O(n²) / O(n) |
+| 32  | New Cashier Does Not Know About Space or Shif | [Level 6](https://www.codewars.com/kata/5d23d89906f92a00267bb83d) | O(n) / O(n) |
