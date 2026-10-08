@@ -34,3 +34,4 @@ Daily coding practice log — one problem a day.
 | 30  | Decipher this | [Level 6](https://www.codewars.com/kata/581e014b55f2c52bb00000f8) | O(n²) / O(n) |
 | 31  | Validate Credit Card Number | [Level 6](https://www.codewars.com/kata/5418a1dd6d8216e18a0012b2) | O(n²) / O(n) |
 | 32  | New Cashier Does Not Know About Space or Shif | [Level 6](https://www.codewars.com/kata/5d23d89906f92a00267bb83d) | O(n) / O(n) |
+| 33  | Find the Minef | [Level 6](https://www.codewars.com/kata/528d9adf0e03778b9e00067e) | O(n) / O(1) |
