@@ -35,3 +35,4 @@ Daily coding practice log — one problem a day.
 | 31  | Validate Credit Card Number | [Level 6](https://www.codewars.com/kata/5418a1dd6d8216e18a0012b2) | O(n²) / O(n) |
 | 32  | New Cashier Does Not Know About Space or Shif | [Level 6](https://www.codewars.com/kata/5d23d89906f92a00267bb83d) | O(n) / O(n) |
 | 33  | Find the Minef | [Level 6](https://www.codewars.com/kata/528d9adf0e03778b9e00067e) | O(n) / O(1) |
+| 34  | Where is my parent!? | [Level 6](https://www.codewars.com/kata/58539230879867a8cd00011c) | O(n) / O(1) |
