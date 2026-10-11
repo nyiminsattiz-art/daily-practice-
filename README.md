@@ -37,3 +37,4 @@ Daily coding practice log — one problem a day.
 | 33  | Find the Minef | [Level 6](https://www.codewars.com/kata/528d9adf0e03778b9e00067e) | O(n) / O(1) |
 | 34  | Where is my parent!? | [Level 6](https://www.codewars.com/kata/58539230879867a8cd00011c) | O(n) / O(1) |
 | 35  | Difference of 2 | [Level 6](https://www.codewars.com/kata/5340298112fa30e786000688) | O(n²) / O(n) |
+| 36  | Format words into a sentence | [Level 6](https://www.codewars.com/kata/51689e27fe9a00b126000004) | O(n) / O(1) |
