@@ -39,3 +39,4 @@ Daily coding practice log — one problem a day.
 | 35  | Difference of 2 | [Level 6](https://www.codewars.com/kata/5340298112fa30e786000688) | O(n²) / O(n) |
 | 36  | Format words into a sentence | [Level 6](https://www.codewars.com/kata/51689e27fe9a00b126000004) | O(n) / O(1) |
 | 37  | Hamming Distance | [Level 6](https://www.codewars.com/kata/5410c0e6a0e736cf5b000e69) | O(n) / O(1) |
+| 38  | Pine's Deaf Grandma | [Level 6](https://www.codewars.com/kata/572b82bf4903c13b1b001079) | O(n) / O(n) |
