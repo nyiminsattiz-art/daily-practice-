@@ -41,3 +41,4 @@ Daily coding practice log — one problem a day.
 | 37  | Hamming Distance | [Level 6](https://www.codewars.com/kata/5410c0e6a0e736cf5b000e69) | O(n) / O(1) |
 | 38  | Pine's Deaf Grandma | [Level 6](https://www.codewars.com/kata/572b82bf4903c13b1b001079) | O(n) / O(n) |
 | 39  | ISBN-10 Validation | [Level 5](https://www.codewars.com/kata/51fc12de24a9d8cb0e000001) | O(n) / O(1) |
+| 40  | Form The Minimum | [Level 7](https://www.codewars.com/kata/5ac6932b2f317b96980000ca) | O(n) / O(1) |
