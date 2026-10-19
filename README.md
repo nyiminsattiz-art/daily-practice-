@@ -45,3 +45,4 @@ Daily coding practice log — one problem a day.
 | 41  | Length of missing array | [Level 6](https://www.codewars.com/kata/57b6f5aadb5b3d0ae3000611) | O(n) / O(1) |
 | 42  | Matrix Addition | [Level 6](https://www.codewars.com/kata/526233aefd4764272800036f) | O(n²) / O(n) |
 | 43  | Tortoise racing | [Level 6](https://www.codewars.com/kata/55e2adece53b4cdcb900006c) | O(n) / O(1) |
+| 44  | Simple Encryption #1 - Alternating Split | [Level 6](https://www.codewars.com/kata/57814d79a56c88e3e0000786) | O(n²) / O(1) |
