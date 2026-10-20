@@ -46,3 +46,4 @@ Daily coding practice log — one problem a day.
 | 42  | Matrix Addition | [Level 6](https://www.codewars.com/kata/526233aefd4764272800036f) | O(n²) / O(n) |
 | 43  | Tortoise racing | [Level 6](https://www.codewars.com/kata/55e2adece53b4cdcb900006c) | O(n) / O(1) |
 | 44  | Simple Encryption #1 - Alternating Split | [Level 6](https://www.codewars.com/kata/57814d79a56c88e3e0000786) | O(n²) / O(1) |
+| 45  | Only Duplicates | [Level 6](https://www.codewars.com/kata/5a1dc4baffe75f270200006b) | O(n) / O(1) |
