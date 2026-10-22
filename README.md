@@ -48,3 +48,4 @@ Daily coding practice log — one problem a day.
 | 44  | Simple Encryption #1 - Alternating Split | [Level 6](https://www.codewars.com/kata/57814d79a56c88e3e0000786) | O(n²) / O(1) |
 | 45  | Only Duplicates | [Level 6](https://www.codewars.com/kata/5a1dc4baffe75f270200006b) | O(n) / O(1) |
 | 46  | RGB To Hex Conversion | [Level 5](https://www.codewars.com/kata/513e08acc600c94f01000001) | O(1) / O(1) |
+| 47  | Greed is Good | [Level 5](https://www.codewars.com/kata/5270d0d18625160ada0000e4) | O(n) / O(1) |
