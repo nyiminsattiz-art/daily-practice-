@@ -49,3 +49,4 @@ Daily coding practice log — one problem a day.
 | 45  | Only Duplicates | [Level 6](https://www.codewars.com/kata/5a1dc4baffe75f270200006b) | O(n) / O(1) |
 | 46  | RGB To Hex Conversion | [Level 5](https://www.codewars.com/kata/513e08acc600c94f01000001) | O(1) / O(1) |
 | 47  | Greed is Good | [Level 5](https://www.codewars.com/kata/5270d0d18625160ada0000e4) | O(n) / O(1) |
+| 48  | Make a function that does arithmetic | [Level 7](https://www.codewars.com/kata/583f158ea20cfcbeb400000a) | O(1) / O(1) |
