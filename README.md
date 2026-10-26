@@ -52,3 +52,4 @@ Daily coding practice log — one problem a day.
 | 48  | Make a function that does arithmetic | [Level 7](https://www.codewars.com/kata/583f158ea20cfcbeb400000a) | O(1) / O(1) |
 | 49  | Sort only integers in Nested List | [Level 6](https://www.codewars.com/kata/5a4bdd73d8e145f17d000035) | O(n³) / O(n) |
 | 50  | Best travel | [Level 5](https://www.codewars.com/kata/55e7280b40e1c4a06d0000aa) | O(n) / O(1) |
+| 51  | Equal Sides Of An Array | [Level 6](https://www.codewars.com/kata/5679aa472b8f57fb8c000047) | O(n) / O(1) |
