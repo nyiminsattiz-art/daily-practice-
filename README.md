@@ -54,3 +54,4 @@ Daily coding practice log — one problem a day.
 | 50  | Best travel | [Level 5](https://www.codewars.com/kata/55e7280b40e1c4a06d0000aa) | O(n) / O(1) |
 | 51  | Equal Sides Of An Array | [Level 6](https://www.codewars.com/kata/5679aa472b8f57fb8c000047) | O(n) / O(1) |
 | 52  | Two fighters, one winner. | [Level 7](https://www.codewars.com/kata/577bd8d4ae2807c64b00045b) | O(n) / O(1) |
+| 53  | N-th Fibonacci | [Level 6](https://www.codewars.com/kata/522551eee9abb932420004a0) | O(n) / O(n) |
