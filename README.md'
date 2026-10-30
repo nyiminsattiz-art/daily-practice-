@@ -1,0 +1,59 @@
+Daily coding practice log — one problem a day.
+
+| Day | Problem Name | Codewars Level/Link | Time/Space Complexity |
+|-----|---------------|----------------------|------------------------|
+| 01  | Square or Square Root | [Level 8](https://www.codewars.com/kata/57f6ad55cca6e045d2000627) | O(n) / O(n) |
+| 02  | Count Characters in Your String | [Level 6](https://www.codewars.com/kata/52efefcbcdf57161d4000091) | O(n) / O(n) |
+| 03  | Take a Number and Sum Its Digits Raised to Powers | [Level 6](https://www.codewars.com/kata/5626b561280a42ecc50000d1) | O(n) / O(n) |
+| 04  | Tribonacci Sequence | [Level 6](https://www.codewars.com/kata/556deca17c58da83c00002db) | O(n) / O(n) |
+| 05  | Title Case | [Level 6](https://www.codewars.com/kata/5202ef17a402dd033c000009) | O(n) / O(n) |
+| 06  | Turkish National Identity Number | [Level 6](https://www.codewars.com/kata/556021360863a1708900007b) | O(n) / O(1) |
+| 07  | Split by Mask | [Level 7](https://www.codewars.com/kata/6a68ed7894f29599a1f7a248) | O(n) / O(n) |# daily-practice-
+| 08 | Sum of many ints | [Level 6](https://www.codewars.com/kata/54c2fc0552791928c9000517) | O(1) / O(1) |
+| 09  | Playing with digits | [Level 6](https://www.codewars.com/kata/5552101f47fc5178b1000050) | O(n) / O(1) |
+| 10  | Do I get a bonus? | [Level 8](https://www.codewars.com/kata/56f6ad906b88de513f000d96) | O(1) / O(1) |
+| 11  | Testing 1-2-3 | [Level 7](https://www.codewars.com/kata/54bf85e3d5b56c7a05000cf9) | O(n) / O(n) |ø
+| 12  | CSV representation of array | [Level 8](https://www.codewars.com/kata/5a34af40e1ce0eb1f5000036) | O(n²) / O(n) |
+| 13  | Find The Corrupted Hex Byte | [Level 7](https://www.codewars.com/kata/6a54d3e91e9fb16ca31cc912) | O(n²) / O(1) |
+| 14  | Was the package received before it was sent? (Simplified) | [Level 8](https://www.codewars.com/kata/6707688c0f597511f6649270) | O(1) / O(1) |
+| 15  | Sum the nums, sum the sums and sum the nums up to that sum | [Level 6](https://www.codewars.com/kata/60d2325592157c0019ee78ed) | O(1) / O(1) |
+| 16  | Fuel Calculator: Total Cost | [Level 8](https://www.codewars.com/kata/57b58827d2a31c57720012e8) | O(1) / O(1) |
+| 17  | Decompose single strand DNA into 3 reading frames | [Level 7](https://www.codewars.com/kata/57507369b0b6d1b5a60001b3) | O(n) / O(1) |
+| 18  | Closest elevator | [Level 8](https://www.codewars.com/kata/57507369b0b6d1b5a60001b3) | O(1) / O(1) |
+| 19  | Sum of differences in array | [Level 8](https://www.codewars.com/kata/5b73fe9fb3d9776fbf00009e) | O(n) / O(1) |
+| 20  | Which are in? | [Level 6](https://www.codewars.com/kata/550554fd08b86f84fe000a58) | O(n) / O(n) |
+| 21  | #1 Sequences: Pure Even Digit Perfect Squares (P.E.D.P.S) | [Level 6](https://www.codewars.com/kata/59290e641a640c53d000002c) | O(n²) / O(n) |
+| 22  | 2 DNAs sequences, coding for same protein?) | [Level 7](https://www.codewars.com/kata/57cbb9e240e3024aae000b26) | O(n) / O(n) |
+| 23  | Is it an isogram) | [Level 6](https://www.codewars.com/kata/586d79182e8d9cfaba0000f1) | O(n) / O(n) |
+| 24  | Count words | [Level 6](https://www.codewars.com/kata/56b3b27cadd4ad275500000c) | O(n) / O(1) |
+| 25  | Reverse or rotate | [Level 6](https://www.codewars.com/kata/56b5afb4ed1f6d5fb0000991) | O(n) / O(1) |
+| 26  | Valid Phone Number | [Level 6](https://www.codewars.com/kata/525f47c79f2f25a4db000025) | O(n) / O(1) |
+| 27  | Perfect squares, perfect fu | [Level 7](https://www.codewars.com/kata/5705ca6a41e5be67720012c0) | O(n) / O(n) |
+| 28  | Weight for weight | [Level 5](https://www.codewars.com/kata/55c6126177c9441a570000cc) | O(n) / O(n) |
+| 29  | Kebabize | [Level 6](https://www.codewars.com/kata/57f8ff867a28db569e000c4a) | O(n) / O(1) |
+| 30  | Decipher this | [Level 6](https://www.codewars.com/kata/581e014b55f2c52bb00000f8) | O(n²) / O(n) |
+| 31  | Validate Credit Card Number | [Level 6](https://www.codewars.com/kata/5418a1dd6d8216e18a0012b2) | O(n²) / O(n) |
+| 32  | New Cashier Does Not Know About Space or Shif | [Level 6](https://www.codewars.com/kata/5d23d89906f92a00267bb83d) | O(n) / O(n) |
+| 33  | Find the Minef | [Level 6](https://www.codewars.com/kata/528d9adf0e03778b9e00067e) | O(n) / O(1) |
+| 34  | Where is my parent!? | [Level 6](https://www.codewars.com/kata/58539230879867a8cd00011c) | O(n) / O(1) |
+| 35  | Difference of 2 | [Level 6](https://www.codewars.com/kata/5340298112fa30e786000688) | O(n²) / O(n) |
+| 36  | Format words into a sentence | [Level 6](https://www.codewars.com/kata/51689e27fe9a00b126000004) | O(n) / O(1) |
+| 37  | Hamming Distance | [Level 6](https://www.codewars.com/kata/5410c0e6a0e736cf5b000e69) | O(n) / O(1) |
+| 38  | Pine's Deaf Grandma | [Level 6](https://www.codewars.com/kata/572b82bf4903c13b1b001079) | O(n) / O(n) |
+| 39  | ISBN-10 Validation | [Level 5](https://www.codewars.com/kata/51fc12de24a9d8cb0e000001) | O(n) / O(1) |
+| 40  | Form The Minimum | [Level 7](https://www.codewars.com/kata/5ac6932b2f317b96980000ca) | O(n) / O(1) |
+| 41  | Length of missing array | [Level 6](https://www.codewars.com/kata/57b6f5aadb5b3d0ae3000611) | O(n) / O(1) |
+| 42  | Matrix Addition | [Level 6](https://www.codewars.com/kata/526233aefd4764272800036f) | O(n²) / O(n) |
+| 43  | Tortoise racing | [Level 6](https://www.codewars.com/kata/55e2adece53b4cdcb900006c) | O(n) / O(1) |
+| 44  | Simple Encryption #1 - Alternating Split | [Level 6](https://www.codewars.com/kata/57814d79a56c88e3e0000786) | O(n²) / O(1) |
+| 45  | Only Duplicates | [Level 6](https://www.codewars.com/kata/5a1dc4baffe75f270200006b) | O(n) / O(1) |
+| 46  | RGB To Hex Conversion | [Level 5](https://www.codewars.com/kata/513e08acc600c94f01000001) | O(1) / O(1) |
+| 47  | Greed is Good | [Level 5](https://www.codewars.com/kata/5270d0d18625160ada0000e4) | O(n) / O(1) |
+| 48  | Make a function that does arithmetic | [Level 7](https://www.codewars.com/kata/583f158ea20cfcbeb400000a) | O(1) / O(1) |
+| 49  | Sort only integers in Nested List | [Level 6](https://www.codewars.com/kata/5a4bdd73d8e145f17d000035) | O(n³) / O(n) |
+| 50  | Best travel | [Level 5](https://www.codewars.com/kata/55e7280b40e1c4a06d0000aa) | O(n) / O(1) |
+| 51  | Equal Sides Of An Array | [Level 6](https://www.codewars.com/kata/5679aa472b8f57fb8c000047) | O(n) / O(1) |
+| 52  | Two fighters, one winner. | [Level 7](https://www.codewars.com/kata/577bd8d4ae2807c64b00045b) | O(n) / O(1) |
+| 53  | N-th Fibonacci | [Level 6](https://www.codewars.com/kata/522551eee9abb932420004a0) | O(n) / O(n) |
+| 54  | Clocky Mc Clock-Face | [Level 6](https://www.codewars.com/kata/59752e1f064d1261cb0000ec) | O(1) / O(1) |
+| 55  | Surjection Count | [Level 6](https://www.codewars.com/kata/6a92adf37a5942e596d3e89f) | O(n) / O(1) |
