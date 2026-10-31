@@ -56,3 +56,4 @@ Daily coding practice log — one problem a day.
 | 52  | Two fighters, one winner. | [Level 7](https://www.codewars.com/kata/577bd8d4ae2807c64b00045b) | O(n) / O(1) |
 | 53  | N-th Fibonacci | [Level 6](https://www.codewars.com/kata/522551eee9abb932420004a0) | O(n) / O(n) |
 | 54  | Clocky Mc Clock-Face | [Level 6](https://www.codewars.com/kata/59752e1f064d1261cb0000ec) | O(1) / O(1) |
+| 56  | Multiplication table | [Level 6](https://www.codewars.com/kata/534d2f5b5371ecf8d2000a08) | O(n²) / O(n) |
