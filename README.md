@@ -59,3 +59,5 @@ Daily coding practice log — one problem a day.
 | 56  | Multiplication table | [Level 6](https://www.codewars.com/kata/534d2f5b5371ecf8d2000a08) | O(n²) / O(n) |
 | 57  | A Rule of Divisibility by 13 | [Level 6](https://www.codewars.com/kata/564057bc348c7200bd0000ff) | O(n²) / O(1) |
 | 58  | Rectangle into Squares | [Level 6](https://www.codewars.com/kata/55466989aeecab5aac00003e) | O(n) / O(n) |
+| 59  | Number Zoo Patrol | [Level 6](https://www.codewars.com/kata/5276c18121e20900c0000235) | O(1) / O(1) |O
+
