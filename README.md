@@ -61,3 +61,4 @@ Daily coding practice log — one problem a day.
 | 58  | Rectangle into Squares | [Level 6](https://www.codewars.com/kata/55466989aeecab5aac00003e) | O(n) / O(n) |
 | 59  | Number Zoo Patrol | [Level 6](https://www.codewars.com/kata/5276c18121e20900c0000235) | O(1) / O(1) |O
 | 60  | Drunk friend | [Level 6](https://www.codewars.com/kata/558ffec0f0584f24250000a0) | O(n) / O(1) |
+| 61  | Fold an array | [Level 6](https://www.codewars.com/kata/558ffec0f0584f24250000a0) | O(n²) / O(1) |
