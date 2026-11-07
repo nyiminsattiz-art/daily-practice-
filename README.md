@@ -63,3 +63,4 @@ Daily coding practice log — one problem a day.
 | 60  | Drunk friend | [Level 6](https://www.codewars.com/kata/558ffec0f0584f24250000a0) | O(n) / O(1) |
 | 61  | Fold an array | [Level 6](https://www.codewars.com/kata/558ffec0f0584f24250000a0) | O(n²) / O(1) |
 | 62  | Exclamation marks series #17: Put the exclamation marks and question marks on the balance - are they balanced? | [Level 6](https://www.codewars.com/kata/57fb44a12b53146fe1000136) | O(n) / O(1) 
+| 63  | String average | [Level 6](https://www.codewars.com/kata/5966847f4025872c7d00015b) | O(n) / O(1) |
