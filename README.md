@@ -66,3 +66,4 @@ Daily coding practice log — one problem a day.
 | 63  | String average | [Level 6](https://www.codewars.com/kata/5966847f4025872c7d00015b) | O(n) / O(1) |
 | 64  | More Zeros than Ones | [Level 6](https://www.codewars.com/kata/5d41e16d8bad42002208fe1a) | O(n) / O(n) |
 | 65  | Find the vowels | [Level 7](https://www.codewars.com/kata/5680781b6b7c2be860000036) | O(1) / O(n) |
+| 66  | Ordering the words! | [Level 7](https://www.codewars.com/kata/55d7e5aa7b619a86ed000070) | O(1) / O(n) |
